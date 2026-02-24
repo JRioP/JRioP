@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://app.daily.dev/joshuario"><img src="./devcard.png" width="356" alt="Joshua Rio's Dev Card"/></a>
+  <a href="https://app.daily.dev/joshuario">
+    <img src="./devcard.png" width="356" alt="Joshua Rio's Dev Card"/>
+  </a>
 </div>
