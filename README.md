@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/joshuario"><img src="https://api.daily.dev/devcards/v2/opnJV85YP4emikGPVCRYT.png?type=wide&r=iga" width="652" alt="Joshua Rio's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/joshuario">
+    <img src="https://api.daily.dev/devcards/v2/opnJV85YP4emikGPVCRYT.png?type=wide&r=iga" width="652" alt="Joshua Rio's Dev Card"/>
+  </a>
+</div>
