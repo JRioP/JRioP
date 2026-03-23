@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Joshua! 👋
+I'm a developer passionate about building clean code and staying curious.
 
 <!--
 **JRioP/JRioP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
