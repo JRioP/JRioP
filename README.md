@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Rio! 👋
 
-**BSIT Graduate · WordPress Developer · Android Developer**
+**BSIT Graduate · WordPress Developer · Android Developer · Web Developer**
 <br>Batangas, Philippines · Open to full-time IT roles
 
 [![Email](https://img.shields.io/badge/riojoshuadev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riojoshuadev@gmail.com)
