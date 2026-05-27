@@ -50,12 +50,6 @@ Full corporate website built and deployed from local staging to live production.
 - Achieved **92 PageSpeed score** and **A+ external security rating**
 - Custom PHP email routing system with dynamic service-based inquiry ticketing
 
-### 🏛 LGU Website *(Smplfy Creative Labs)*
-Government website serving thousands of residents with online access to local services.
-
-- **Stack:** WordPress · Elementor · JavaScript
-- End-to-end build from stakeholder requirements gathering to live deployment
-
 ---
 
 ## ⚙️ Automation
