@@ -1,15 +1,13 @@
 # Hi, I'm Joshua Rio! 👋
-
 **BSIT Graduate · WordPress Developer · Android Developer · Web Developer**
 <br>Batangas, Philippines · Open to full-time IT roles
 
 [![Email](https://img.shields.io/badge/riojoshuadev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riojoshuadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-japrdev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/japrdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshuario.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://joshuario.vercel.app)
 
 ---
-
 ## 🛠 Tech Stack
-
 **Mobile**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -33,27 +31,26 @@
 ![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=flat&logo=sap&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 📱 [RoadRescue](https://github.com/JRioP/RoadRescue)
 An Android roadside assistance app connecting stranded motorists with nearby verified service providers in real time.
-
 - **Stack:** Java · Android Studio · Firebase (Firestore, Auth, Cloud Functions) · Google Maps SDK
 - Real-time GPS tracking, OAuth 2.0 auth, and signed APK production release
 - **Role:** Lead Developer & System Analyst
 
 ### 🌐 MaYo Holdings Corporate Website *(OJT — MHCI MITSD)*
 Full corporate website built and deployed from local staging to live production.
-
 - **Stack:** WordPress · Elementor · PHP · LiteSpeed Cache · Wordfence WAF
 - Achieved **92 PageSpeed score** and **A+ external security rating**
 - Custom PHP email routing system with dynamic service-based inquiry ticketing
 
 ---
+## 🌍 Portfolio
+Explore more of my work, including additional projects and case studies, at **[joshuario.vercel.app](https://joshuario.vercel.app)**.
 
+---
 ## ⚙️ Automation
-
 This profile uses a **GitHub Actions workflow** that runs on a daily schedule to automatically fetch and update my daily.dev developer card — keeping my reading activity and current interests synced without manual updates.
 
 <div align="center">
@@ -63,9 +60,7 @@ This profile uses a **GitHub Actions workflow** that runs on a daily schedule to
 </div>
 
 ---
-
 ## 📜 Certifications
-
 | Certification | Issuer | Year |
 |---|---|---|
 | Systems Administration | STI / Linux Professional Institute (LPI) | 2024 |
@@ -74,5 +69,4 @@ This profile uses a **GitHub Actions workflow** that runs on a daily schedule to
 | Java Fundamentals | Oracle Academy | 2023 |
 
 ---
-
 *"To master the technology is my goal and not the other way around."*
