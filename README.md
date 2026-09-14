@@ -48,7 +48,7 @@ Full corporate website built and deployed from local staging to live production.
 ### 🌍 [Rio Portfolio Website](https://joshuario.com)
 High-performance personal portfolio featuring MDX-powered project showcases and a serverless contact form.
 - **Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Resend API · MDX
-- [Case study](https://joshuario.com/projects/porfolio-website) · [Live site](https://joshuario.vercel.app)
+- [Case study](https://joshuario.com/projects/porfolio-website) · [Live site](https://joshuario.com)
 ### 📱 [RoadRescue](https://github.com/JRioP/RoadRescue)
 Real-time Android roadside assistance app connecting stranded motorists with nearby verified service providers.
 - **Stack:** Java · Firebase (Firestore, Auth, Cloud Functions) · Google Maps SDK · OAuth 2.0 · AES-256 · Room Database · Retrofit · Figma
@@ -67,7 +67,7 @@ Real-time Android roadside assistance app connecting stranded motorists with nea
 ---
  
 ## 🌍 Portfolio
-Explore more of my work, including additional projects and case studies, at **[joshuario.vercel.app](https://joshuario.vercel.app)**.
+Explore more of my work, including additional projects and case studies, at **[joshuario.com](https://joshuario.com)**.
  
 ---
  
