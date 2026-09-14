@@ -4,7 +4,7 @@
  
 [![Email](https://img.shields.io/badge/riojoshuadev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riojoshuadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-japrdev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/japrdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-joshuario.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://joshuario.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshuario.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://joshuario.com)
  
 ---
  
@@ -44,16 +44,16 @@
 Full corporate website built and deployed from local staging to live production.
 - **Stack:** WordPress · Elementor · PHP · WP Super Cache · Wordfence WAF · Cloudflare · WPCode · WPForms
 - **87/100** audit score, **A+** external security rating, **SEO 100/100**
-- [Case study](https://joshuario.vercel.app/projects/mayo-holdings) · [Live site](https://landing.mayogroup.biz)
+- [Case study](https://joshuario.com/projects/mayo-holdings) · [Live site](https://landing.mayogroup.biz)
 ### 🌍 [Rio Portfolio Website](https://joshuario.vercel.app)
 High-performance personal portfolio featuring MDX-powered project showcases and a serverless contact form.
 - **Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Resend API · MDX
-- [Case study](https://joshuario.vercel.app/projects/porfolio-website) · [Live site](https://joshuario.vercel.app)
+- [Case study](https://joshuario.com/projects/porfolio-website) · [Live site](https://joshuario.vercel.app)
 ### 📱 [RoadRescue](https://github.com/JRioP/RoadRescue)
 Real-time Android roadside assistance app connecting stranded motorists with nearby verified service providers.
 - **Stack:** Java · Firebase (Firestore, Auth, Cloud Functions) · Google Maps SDK · OAuth 2.0 · AES-256 · Room Database · Retrofit · Figma
 - Live GPS tracking, automated matching, and secure payments
-- [Case study](https://joshuario.vercel.app/projects/roadrescue) · [GitHub](https://github.com/JRioP/RoadRescue)
+- [Case study](https://joshuario.com/projects/roadrescue) · [GitHub](https://github.com/JRioP/RoadRescue)
 ---
  
 ## 💼 Experience
