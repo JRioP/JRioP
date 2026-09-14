@@ -45,7 +45,7 @@ Full corporate website built and deployed from local staging to live production.
 - **Stack:** WordPress · Elementor · PHP · WP Super Cache · Wordfence WAF · Cloudflare · WPCode · WPForms
 - **87/100** audit score, **A+** external security rating, **SEO 100/100**
 - [Case study](https://joshuario.com/projects/mayo-holdings) · [Live site](https://landing.mayogroup.biz)
-### 🌍 [Rio Portfolio Website](https://joshuario.vercel.app)
+### 🌍 [Rio Portfolio Website](https://joshuario.com)
 High-performance personal portfolio featuring MDX-powered project showcases and a serverless contact form.
 - **Stack:** Next.js (App Router) · React · TypeScript · Tailwind CSS · Resend API · MDX
 - [Case study](https://joshuario.com/projects/porfolio-website) · [Live site](https://joshuario.vercel.app)
