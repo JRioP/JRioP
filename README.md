@@ -4,7 +4,7 @@
  
 [![Email](https://img.shields.io/badge/riojoshuadev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:riojoshuadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-japrdev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/japrdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-joshuario.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://joshuario.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-joshuario.com-000000?style=flat&logo=vercel&logoColor=white)](https://joshuario.com)
  
 ---
  
